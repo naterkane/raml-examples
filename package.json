@@ -1,0 +1,26 @@
+{
+  "name": "raml-examples",
+  "version": "1.0.0",
+  "description": "A collection of examples of RAML 1.0, forked from raml-org/raml-examples",
+  "main": "/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naterkane/raml-examples.git"
+  },
+  "keywords": [
+    "raml",
+    "raml1.0",
+    "examples",
+    "api",
+    "documentation"
+  ],
+  "author": "Nater Kane <nater@naterkane.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naterkane/raml-examples/issues"
+  },
+  "homepage": "https://github.com/naterkane/raml-examples#readme"
+}
